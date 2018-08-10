@@ -101,12 +101,6 @@ https://drive.google.com/file/d/1rFUeIBIaIJyVzuVWmOtGPu0hKy0bfOqc/view?usp=shari
 
 https://docs.google.com/spreadsheets/d/1PsAFUm1-oY48n-KbCAPfUa-f9n2s6P49LLmAOCjpn-c/edit?usp=sharing
 
-# Contact for complete course training.
-
-# Mobile: +91 9966960045 , e-mail: onlinedevopstraining@gmail.com
-
-## Submit your issues (feedback/questions/concerns):
-
 ![image](https://user-images.githubusercontent.com/24622526/42048747-ca365208-7b21-11e8-9afb-5c12d5f7215f.png)
 
 ## Click on Fork
